@@ -9,3 +9,6 @@ Count how many days passed since the beginning od the year to the day (int day, 
 
 9.2 
 Create following pattern without using tables. Read the size from the keyboard. The final pattern consisting should be (2 * size + 1) x (2 * size + 1).
+
+9.3 
+Program reading the amount of money from the keyboard and returning number and type of coins needed to pay. 
